@@ -1,8 +1,7 @@
 # 14-Tech-Blog
 ![](https://img.shields.io/badge/license-MIT%20License-blue?style=flat-square)
 ## Description
-This application is a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well
-## Table of Contents
+This application is a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on each others posts## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
 * [Contribution](#contribution)
